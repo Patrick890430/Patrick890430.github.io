@@ -7,4 +7,5 @@
 #mainframe .content .unit { font-size: 0.32rem; vertical-align: middle; }
 #mainframe .content .description { font-size: 0.38rem; margin-top: 0.15rem; padding: 0px 0.15rem; line-height: 1.2; text-align: center; }
 #mainframe .content .qrcode { text-align: center; margin: 0 auto; width: 1.45rem; height: 1.45rem; background: #fff; margin-top: 1.68rem; }
+#mainframe .content .qrcode>img { width: 100%; }
 #mainframe .content .bottom { text-align: center; margin-top: 0.15rem; font-size: 0.28rem; }
